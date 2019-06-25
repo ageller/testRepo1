@@ -1,4 +1,4 @@
 # testRepo1
 Testing git
 
-##this is awesome!!!
+## This is awesome!!!
